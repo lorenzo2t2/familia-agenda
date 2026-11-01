@@ -1,6 +1,6 @@
 {
-    "name": "Agenda Familiar",
-    "short_name": "Agenda Familiar",
+    "name": "familia_agenda_app",
+    "short_name": "familia_agenda_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
