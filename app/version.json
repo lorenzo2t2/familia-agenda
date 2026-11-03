@@ -1,1 +1,1 @@
-{"version":"1.1.0","build":9,"sha256":"667f1adbbab7ab8eab467cf1e1a36e965c568342e142134ee905e3a979899c78","notas":"Los globos del mapa ya no se tapan cuando hay varias personas en el mismo sitio"}
+{"version":"1.1.0","build":11,"sha256":"dc773ef47b48b282f44decfb0f40c5837da768e4f0276a6ba12dc362007443c6","notas":"Como Life360: una alarma despierta al móvil cada 30 min para enviar la ubicación aunque esté dormido. Arreglo para Xiaomi, Poco y Redmi"}
