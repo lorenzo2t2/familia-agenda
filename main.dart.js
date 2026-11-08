@@ -59238,16 +59238,16 @@ A.b1.prototype={$r:"+(1,2,3)",$s:17}
 A.aJ7.prototype={$r:"+ascent,bottomHeight,subtextHeight(1,2,3)",$s:18}
 A.aJ8.prototype={$r:"+borrar,guardar,propias(1,2,3)",$s:19}
 A.aJ9.prototype={$r:"+breaks,graphemes,words(1,2,3)",$s:20}
-A.aJa.prototype={$r:"+close,onMessage,postMessage(1,2,3)",$s:21}
-A.aj0.prototype={$r:"+completer,recorder,scene(1,2,3)",$s:22}
-A.aj1.prototype={$r:"+data,event,timeStamp(1,2,3)",$s:23}
-A.aJb.prototype={$r:"+domSize,representation,targetSize(1,2,3)",$s:24}
-A.aJc.prototype={$r:"+large,medium,small(1,2,3)",$s:25}
-A.aJd.prototype={$r:"+textConstraints,tileSize,titleY(1,2,3)",$s:26}
-A.K9.prototype={$r:"+(1,2,3,4)",$s:29}
-A.aj2.prototype={$r:"+domBlurListener,domFocusListener,element,semanticsNodeId(1,2,3,4)",$s:30}
-A.aj3.prototype={$r:"+queue,started,target,timer(1,2,3,4)",$s:31}
-A.aJe.prototype={$r:"+curveAnimation,curveController,curveTween,repeatAnimation,repeatController,repeatTween(1,2,3,4,5,6)",$s:32}
+A.aJa.prototype={$r:"+close,onMessage,postMessage(1,2,3)",$s:22}
+A.aj0.prototype={$r:"+completer,recorder,scene(1,2,3)",$s:23}
+A.aj1.prototype={$r:"+data,event,timeStamp(1,2,3)",$s:24}
+A.aJb.prototype={$r:"+domSize,representation,targetSize(1,2,3)",$s:25}
+A.aJc.prototype={$r:"+large,medium,small(1,2,3)",$s:26}
+A.aJd.prototype={$r:"+textConstraints,tileSize,titleY(1,2,3)",$s:27}
+A.K9.prototype={$r:"+(1,2,3,4)",$s:30}
+A.aj2.prototype={$r:"+domBlurListener,domFocusListener,element,semanticsNodeId(1,2,3,4)",$s:31}
+A.aj3.prototype={$r:"+queue,started,target,timer(1,2,3,4)",$s:32}
+A.aJe.prototype={$r:"+curveAnimation,curveController,curveTween,repeatAnimation,repeatController,repeatTween(1,2,3,4,5,6)",$s:33}
 A.Xe.prototype={}
 A.a12.prototype={
 jY(a,b,c){var s=A.p(this)
@@ -74566,7 +74566,7 @@ s.push(A.Lm(m,m,h.gaU3(),m,m,B.b4N,h.r))
 s.push(A.Lm(m,m,h.gaU1(),m,m,B.b4X,h.w))
 s.push(A.c9(!1,m,m,m,!0,m,m,m,!0,m,m,m,m,m,m,m,new A.bdS(a),!1,m,m,m,m,m,B.b7g,m,B.b6c,m,B.ee,m))
 q=A.f([A.Lm(m,m,h.gaTV(),m,B.b43,B.b4L,h.d)],f)
-p=A.z("Versi\xf3n 1.1.17",m,m,m,m,m,m,m,m)
+p=A.z("Versi\xf3n 1.1.18",m,m,m,m,m,m,m,m)
 p=A.f([A.c9(!1,m,m,m,!0,m,m,m,!0,m,m,m,m,m,m,m,m,!1,m,m,m,m,m,A.z("La web se actualiza sola",m,m,m,m,m,m,m,m),m,p,m,m,m),A.c9(!1,m,m,m,!0,m,m,m,!0,m,m,m,m,m,m,m,new A.bdT(l,a),!1,m,m,m,m,m,B.b5g,m,B.b4E,m,B.ee,m)],f)
 o=l.r
 if(o)p.push(A.c9(!1,m,m,m,!0,m,m,m,!0,m,m,m,m,m,m,m,new A.bdU(l,a),!1,m,m,m,m,m,B.b55,m,B.b4z,m,B.ee,m))
