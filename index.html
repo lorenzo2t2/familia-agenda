@@ -18,6 +18,10 @@
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <!-- Seguridad: sin plugins ni formularios a otras webs, y sin enviar la
+       dirección completa de la app a otros sitios. -->
+  <meta http-equiv="Content-Security-Policy" content="object-src 'none'; base-uri 'self'; form-action 'none'">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
   <meta name="description" content="A new Flutter project.">
 
   <!-- iOS meta tags & icons -->

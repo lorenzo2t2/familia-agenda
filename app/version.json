@@ -1,1 +1,1 @@
-{"version":"1.1.19","build":33,"sha256":"e1dcbdb3a496b76edb41b897f6a02eca0029f025f1893fb1afb6f8947d8ec94f","notas":"Ubicación: ya no llegan avisos falsos de salida de zonas en las que no estabas"}
+{"version":"1.1.20","build":34,"sha256":"29f7bc8726155367da7e9beeedaffe189624eaa0941dfcc01453d73df082c3b6","notas":"Seguridad: PIN de padres para borrar zonas siendo menor y cabeceras de seguridad en la web"}
