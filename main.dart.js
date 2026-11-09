@@ -74566,7 +74566,7 @@ s.push(A.Lm(m,m,h.gaU3(),m,m,B.b4N,h.r))
 s.push(A.Lm(m,m,h.gaU1(),m,m,B.b4X,h.w))
 s.push(A.c9(!1,m,m,m,!0,m,m,m,!0,m,m,m,m,m,m,m,new A.bdS(a),!1,m,m,m,m,m,B.b7g,m,B.b6c,m,B.ee,m))
 q=A.f([A.Lm(m,m,h.gaTV(),m,B.b43,B.b4L,h.d)],f)
-p=A.z("Versi\xf3n 1.1.18",m,m,m,m,m,m,m,m)
+p=A.z("Versi\xf3n 1.1.19",m,m,m,m,m,m,m,m)
 p=A.f([A.c9(!1,m,m,m,!0,m,m,m,!0,m,m,m,m,m,m,m,m,!1,m,m,m,m,m,A.z("La web se actualiza sola",m,m,m,m,m,m,m,m),m,p,m,m,m),A.c9(!1,m,m,m,!0,m,m,m,!0,m,m,m,m,m,m,m,new A.bdT(l,a),!1,m,m,m,m,m,B.b5g,m,B.b4E,m,B.ee,m)],f)
 o=l.r
 if(o)p.push(A.c9(!1,m,m,m,!0,m,m,m,!0,m,m,m,m,m,m,m,new A.bdU(l,a),!1,m,m,m,m,m,B.b55,m,B.b4z,m,B.ee,m))
