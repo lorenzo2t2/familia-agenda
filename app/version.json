@@ -1,1 +1,1 @@
-{"version":"1.1.20","build":34,"sha256":"29f7bc8726155367da7e9beeedaffe189624eaa0941dfcc01453d73df082c3b6","notas":"Seguridad: PIN de padres para borrar zonas siendo menor y cabeceras de seguridad en la web"}
+{"version":"1.1.21","build":35,"sha256":"23aa924bf6dd9d5348e2f56c036fa72c9d81ffe6134fe9a8179e8a613e99dd7f","notas":"Más estable: avisos de error claros, reintenta sola sin conexión y actualizador más seguro"}
