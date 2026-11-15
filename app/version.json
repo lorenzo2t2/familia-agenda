@@ -1,1 +1,1 @@
-{"version":"1.1.31","build":45,"sha256":"3a07879187ae6d3f8fac5e3ce91a8259c33292c68ce226e97e72a72c50e0a23c","notas":"Selector de 5 interfaces: Clásica, Nexo, Casa, Rueda y Carriles; abrir secciones por voz"}
+{"version":"1.1.32","build":46,"sha256":"bafd11542bd9f0527d0c027b08790b0ed77c811648bd6d4bc970f0989c0fe8c7","notas":"Interfaces: Clásica, Nexo y Rueda; el cambio de interfaz se ve al momento; Ajustes reorganizado en grupos plegables"}
