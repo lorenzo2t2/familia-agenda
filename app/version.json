@@ -1,1 +1,1 @@
-{"version":"1.1.37","build":51,"sha256":"662d4fbdcba781ac58e2d8d5d386f361d4227179b0038d73ab6fd779473c55dc","notas":"SOS: botón PARAR SIRENA visible en Samsung, y la sirena también se calla al quitar la notificación"}
+{"version":"1.1.38","build":52,"sha256":"34f84805619a4742d80d68ca1f87c0395c11b4332d139f3d8111e2a35d9c1957","notas":"Administradores: se ve quién es propietario y administrador, qué puede hacer cada uno, y el propietario puede nombrar administradores y elegir sus permisos"}
