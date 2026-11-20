@@ -1,1 +1,1 @@
-{"version":"1.1.35","build":49,"sha256":"c25dd062c52cfe84482baea9e1511f272db7df5df6bb5b2a0af4b7ab352fea6f","notas":"SOS como alarma de emergencia: suena aunque el móvil esté en silencio y salta No molestar (pide acceso en la revisión del móvil)"}
+{"version":"1.1.36","build":50,"sha256":"8226a68512187c86574f1d13370dfab732261f89d7a5cd0a8e677803a9c4806d","notas":"SOS con sirena de emergencia propia: suena aunque el móvil esté en silencio o vibración y se para al abrir la app"}
