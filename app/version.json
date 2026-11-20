@@ -1,1 +1,1 @@
-{"version":"1.1.38","build":52,"sha256":"34f84805619a4742d80d68ca1f87c0395c11b4332d139f3d8111e2a35d9c1957","notas":"Administradores: se ve quién es propietario y administrador, qué puede hacer cada uno, y el propietario puede nombrar administradores y elegir sus permisos"}
+{"version":"1.1.39","build":53,"sha256":"9279f5f697bee93bab91b89600a2005b56013ddf73ad168e45ac13268995c15d","notas":"Ajustes: tu tarjeta de usuario muestra tu cargo (propietario, administrador o miembro) y abre qué puedes hacer y los administradores"}
