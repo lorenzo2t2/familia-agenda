@@ -1,1 +1,1 @@
-{"version":"1.1.41","build":55,"sha256":"845c6119bff0117753358f38c1c8c5b2c55105631201383e9a1d0a9df394c3ca","notas":"Llamar a un familiar también desde el chat y el mapa: le suena el móvil con la voz Revisa el teléfono, aunque esté en silencio"}
+{"version":"1.1.42","build":56,"sha256":"58808ce17229cbdf16094cce5e198c47a9d6096abc3bf2bd78cf1e1ca43973a1","notas":"Arreglo: los temas se pueden elegir con cualquier interfaz (Ajustes → Aspecto ya no falla) y los temas de papel se ven bien en Nexo y Rueda"}
