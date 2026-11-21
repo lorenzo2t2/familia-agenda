@@ -1,1 +1,1 @@
-{"version":"1.1.42","build":56,"sha256":"58808ce17229cbdf16094cce5e198c47a9d6096abc3bf2bd78cf1e1ca43973a1","notas":"Arreglo: los temas se pueden elegir con cualquier interfaz (Ajustes → Aspecto ya no falla) y los temas de papel se ven bien en Nexo y Rueda"}
+{"version":"1.1.43","build":57,"sha256":"e51aac565258286a79281b14f4cd55e853c05848992f557015b42313bc2eb15e","notas":"La llamada a un familiar dice quién llama: Revisa el teléfono, Loren (papá) te llama"}
