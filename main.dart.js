@@ -77823,7 +77823,7 @@ g.push(A.LD(e,e,f?e:new A.bg5(d,a),e,B.bcm,j,q))}if(r)g.push(A.c2(!1,e,e,e,!0,e,
 if(r)g.push(A.c2(!1,e,e,e,!0,e,e,e,!0,e,e,e,e,e,e,e,new A.bg7(d,a),!1,e,e,e,e,e,e,e,B.baX,e,B.dN,e))
 g.push(A.c2(!1,e,e,e,!0,e,e,e,!0,e,e,e,e,e,e,e,new A.bg8(d,a),!1,e,e,e,e,e,B.bbw,e,B.a4j,e,B.dN,e))
 g.push(A.c2(!1,e,e,e,!0,e,e,e,!0,e,e,e,e,e,e,e,new A.bga(d,a),!1,e,e,e,e,e,e,e,B.bb1,e,B.dN,e))
-q=A.o("Versi\xf3n 1.1.43",e,e,e,e,e,e,e,e)
+q=A.o("Versi\xf3n 1.1.44",e,e,e,e,e,e,e,e)
 q=A.e([A.c2(!1,e,e,e,!0,e,e,e,!0,e,e,e,e,e,e,e,e,!1,e,e,e,e,e,A.o("La web se actualiza sola",e,e,e,e,e,e,e,e),e,q,e,e,e),A.c2(!1,e,e,e,!0,e,e,e,!0,e,e,e,e,e,e,e,new A.bgb(d,a),!1,e,e,e,e,e,B.baq,e,B.b9O,e,B.dN,e)],o)
 if(r)q.push(A.c2(!1,e,e,e,!0,e,e,e,!0,e,e,e,e,e,e,e,new A.bgc(d,a),!1,e,e,e,e,e,B.baf,e,B.b9J,e,B.dN,e))
 return A.d1(A.e([new A.alJ(c,s,d.w,r,new A.bgd(d,a),e),new A.TV("Interfaz",p.d,B.amj,B.ags,n,!0,e),new A.TV("Aspecto","Modo, tema, colores, letra, forma, iconos y fondo",B.amE,B.jW,k,!1,e),new A.TV("Notificaciones","Qu\xe9 avisos recibes y cu\xe1ndo",B.amB,B.oe,i,!1,e),new A.TV("Calendario","Inicio de la semana y calendario del m\xf3vil",B.Af,B.fQ,h,!1,e),new A.TV("Cuenta y seguridad","PIN de padres, recuperaci\xf3n y salir",B.amv,B.f8,g,!1,e),new A.TV("Datos y copias","Versi\xf3n, exportar y copia de seguridad",B.amt,B.yb,q,!1,e)],o),e,B.I5,e,B.Y,!1)},
