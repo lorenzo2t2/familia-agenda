@@ -1,1 +1,1 @@
-{"version":"1.1.71","build":2085,"sha256":"f08d2e19703c401244470c5040fa4c8c535e1af4efb865701ab2f0109575666c","notas":"Al coger la llamada en la tablet se quita también su aviso"}
+{"version":"1.1.72","build":2086,"sha256":"94c812400c76d84b1ea8f69126911e691f14a49c7aa7459c9cbaacf3b128633c","notas":"Un móvil ya no pierde la sesión por el walkie en segundo plano y, si la pierde, vuelve solo a la familia"}
