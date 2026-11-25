@@ -1,1 +1,1 @@
-{"version":"1.1.70","build":84,"sha256":"08c0b248e43365f01411e72f5dc5d7b8f29709e29c59921f78487d51352395fb","notas":"Las fotos del álbum se guardan en la tablet y se borran de internet; arreglado el álbum con fotos repetidas; mejoras de seguridad y avisos"}
+{"version":"1.1.71","build":2085,"sha256":"f08d2e19703c401244470c5040fa4c8c535e1af4efb865701ab2f0109575666c","notas":"Al coger la llamada en la tablet se quita también su aviso"}
